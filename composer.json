@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-http/guzzle6-adapter": "^2.0",
+        "jolicode/slack-php-api": "^1.1",
+        "vlucas/phpdotenv": "^3.3"
+    }
+}
